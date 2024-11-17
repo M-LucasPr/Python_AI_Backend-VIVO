@@ -1,4 +1,4 @@
-# Python AI Backend - VIVO Telefonica
+# Python AI Backend - DIO & VIVO Telefonica
 
 ### Bootcamp da DIO, patrocinado pela empresa Vivo.
 
